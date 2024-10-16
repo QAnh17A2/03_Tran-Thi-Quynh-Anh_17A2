@@ -1,0 +1,17 @@
+<? xml version = "1.0" encoding = "UTF - 8"?>
+<ds học sinh>
+    <học sinh>
+        <học sinhID>001</học sinhID>
+        <tên>Nguyen Van A</tên>
+        <ngày sinh>1995</ngày sinh>
+        <lớp>12A</lớp>
+        <giới tính>Male</giới tính>
+    </học sinh>
+    <học sinh>
+        <học sinhID>002</học sinhID>
+        <tên>Le Thi B</tên>
+        <ngày sinh>1996</ngày sinh>
+        <lớp>11B</lớp>
+        <giới tính>Female</giới tính>
+    </học sinh>
+</ds học sinh>

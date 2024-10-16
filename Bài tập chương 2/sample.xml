@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Company Staff</title>
+</head>
+<body>
+    <h1>GeeksForGeeks Company</h1>
+    <div id="staff1">
+        <h2>Staff ID: 1</h2>
+        <p>Name: Amar Pandey</p>
+        <p>Salary: 8.5 LPA</p>
+    </div>
+    <div id="staff2">
+        <h2>Staff ID: 2</h2>
+        <p>Name: Akbhar Khan</p>
+        <p>Salary: 6.5 LPA</p>
+    </div>
+    <div id="staff3">
+        <h2>Staff ID: 3</h2>
+        <p>Name: Anthony Walter</p>
+        <p>Salary: 3.2 LPA</p>
+    </div>
+</body>
+</html>
